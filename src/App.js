@@ -16,7 +16,6 @@ export default class App extends Component {
        <div>
         <Navbar/>
         <br/>
-        <h1 className='text-center'> Top News - Latest Headlines</h1>
         <Routes>
         <Route exact path='/' element={<News key="general" pagesize={5} country="in" category="general"/>}></Route>
         <Route exact path='/business' element={<News key="business" pagesize={5} country="in" category="business"/>}></Route>
