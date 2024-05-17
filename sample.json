@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": null,
+        "title": "Mumbai Billboard collapse: At least 14 killed, 74 injured - The Associated Press",
+        "description": "A large billboard that collapsed amid raging thunderstorms in Mumbai killed at least 14 people and injured 75 others, reports said on Tuesday. A rescue operation was ongoing Tuesday morning, and authorities told the Press Trust of India news agency that 89 pe…",
+        "url": "https://apnews.com/article/india-mumbai-rains-billboard-collapse-deaths-3e370788d5071f65f9a1c0f7e88ae3da",
+        "urlToImage": "https://dims.apnews.com/dims4/default/42d780d/2147483647/strip/true/crop/6000x3375+0+312/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe4%2F70%2F898fb3e56be5a09cb9e178640dfb%2F584475917e2e432e989e1809b86fba44",
+        "publishedAt": "2024-05-14T09:31:00Z",
+        "content": "MUMBAI, India (AP) A large billboard that collapsed amid raging thunderstorms in Mumbai killed at least 14 people and injured 75 others, reports said on Tuesday.\r\nA rescue operation was continuing Tu… [+1310 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Melissa Repko",
+        "title": "Home Depot misses on revenue, as high interest rates hurt sales - CNBC",
+        "description": "Home Depot reported first-quarter earnings as it tries to grow sales with home professionals in a tough housing market.",
+        "url": "https://www.cnbc.com/2024/05/14/home-depot-hd-q1-2024-earnings-.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107374475-17080313422020-01-15t175729z_1245890432_rc2hge9sdmof_rtrmadp_0_mexico-homedepot.jpeg?v=1708430715&w=1920&h=1080",
+        "publishedAt": "2024-05-14T09:30:01Z",
+        "content": "Home Depot on Tuesday posted quarterly revenue below Wall Street's expectations, as shoppers postponed bigger discretionary projects like bath and kitchen remodels because of higher interest rates an… [+5018 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Post"
+        },
+        "author": "Nika Shakhnazarova",
+        "title": "Kelly Clarkson admits to using weight loss drug after losing 60 pounds - New York Post ",
+        "description": "While the “American Idol” alum didn’t disclose the name of the weight loss drug she’s been taking, she insisted it was not Ozempic.",
+        "url": "https://nypost.com/2024/05/14/entertainment/kelly-clarkson-admits-to-using-weight-loss-drug-after-losing-60-pounds/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/81808423.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2024-05-14T09:19:00Z",
+        "content": "Kelly Clarkson has credited a weight loss drug for her slimmed-down frame.\r\nWhile chatting with Whoopi Goldberg, who recently lost weight with the help of the Type II diabetes weight loss drug Mounja… [+2417 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Karen Gilchrist",
+        "title": "Diamond giant De Beers faces spin-off amid wider restructuring as Anglo American takeover pressure mounts - CNBC",
+        "description": "Anglo American shares fell over 3% early Tuesday after it announced plans to spin off its highly prized De Beers diamond business.",
+        "url": "https://www.cnbc.com/2024/05/14/anglo-american-to-spin-off-de-beers-as-bhp-takeover-pressure-mounts.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107414429-1715674745193-gettyimages-847184826-HK_DE_BEERS.jpeg?v=1715674767&w=1920&h=1080",
+        "publishedAt": "2024-05-14T09:14:45Z",
+        "content": "Anglo American plans to spin off its highly prized De Beers diamond unit as part of a sweeping restructuring of its 107-year-old business as it seeks to fend off persistent takeover bids from mining … [+2960 chars]"
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": "POLITICO",
+        "title": "Dems' ugliest Senate primary ends with a bad grand prize: Facing Larry Hogan - POLITICO",
+        "description": null,
+        "url": "https://www.politico.com/news/2024/05/14/maryland-democratic-senate-primary-larry-hogan-00157399",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T09:00:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Wegovy weight loss sustained for four years in trial, Novo Nordisk says - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/wegovy-weight-loss-sustained-four-years-trial-novo-nordisk-says-2024-05-13/",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T08:45:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "BBC.com",
+        "title": "Georgia to vote on controversial law that sparked mass protests - BBC.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC1ldXJvcGUtNjkwMDc0NjXSATJodHRwczovL3d3dy5iYmMuY29tL25ld3Mvd29ybGQtZXVyb3BlLTY5MDA3NDY1LmFtcA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T07:06:15Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Israeli protesters attack Gaza aid trucks in West Bank - BBC.com",
+        "description": "Unverified video shows protesters throwing food packages onto the ground before stomping on them.",
+        "url": "https://www.bbc.com/news/articles/cg300jek94zo",
+        "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/news/images/metadata/poster-1024x576.png",
+        "publishedAt": "2024-05-14T07:06:11Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "MATTHEW LEE",
+        "title": "Russia-Ukraine war: Blinken visits Ukraine to affirm US support for Kyiv - The Associated Press",
+        "description": "U.S. Secretary of State Antony Blinken has arrived in Kyiv on an unannounced diplomatic mission to reassure Ukraine that it has American support as it struggles to defend against increasingly intense Russian attacks. The two-day visit starting Tuesday comes l…",
+        "url": "https://apnews.com/article/russia-ukraine-war-blinken-us-military-aid-41df75260903f6b9527fbf3a1a44c815",
+        "urlToImage": "https://dims.apnews.com/dims4/default/04338a3/2147483647/strip/true/crop/5512x3101+0+287/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F53%2F30%2F0172202b72e20593269d26b3afee%2F1fff299ee8204ef790b371df71b37cce",
+        "publishedAt": "2024-05-14T05:55:00Z",
+        "content": "KYIV, Ukraine (AP) U.S. Secretary of State Antony Blinken arrived in Kyiv on Tuesday in an unannounced diplomatic mission to reassure Ukraine that it has American support as it struggles to defend ag… [+5127 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Internet"
+        },
+        "author": "https://www.facebook.com/thehackernews",
+        "title": "Apple and Google Launch Cross-Platform Feature to Detect Unwanted Bluetooth Tracking Devices - The Hacker News",
+        "description": "pple and Google just rolled out a cross-platform feature called \"Detecting Unwanted Location Trackers\" (DULT) on iOS and Android to protect users.",
+        "url": "https://thehackernews.com/2024/05/apple-and-google-launch-cross-platform.html",
+        "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObKafwXTvS8TkJlQc8yMb4vVEIkZe5OIVC6T1AqpzyrFxsdcmHzDoMTDqd7bGEKxYnGPrx73JhWmFGLuvXCD4mkLpvZwKultOaTQk8VS2BK8pnqpDMjBrRtdVMeZrcwVeA7IJCdDMCz_1NW1AB3NHerl2Moi22iXqw8ZuqWjTUeYGAYqVIRsOKs6FgywW/s728-rw-e365/google.png",
+        "publishedAt": "2024-05-14T05:16:00Z",
+        "content": "Apple and Google on Monday officially announced the rollout of a new feature that notifies users across both iOS and Android if a Bluetooth tracking device is being used to stealthily keep tabs on th… [+3396 chars]"
+      },
+      {
+        "source": {
+          "id": "espn",
+          "name": "ESPN"
+        },
+        "author": "Tim MacMahon",
+        "title": "Shai Gilgeous-Alexander rallies Thunder to Game 4 win vs. Mavs - ESPN",
+        "description": "In \"probably the most meaningful game I've played in my career,\" Thunder superstar Shai Gilgeous-Alexander took over down the stretch to lead Oklahoma City to a series-tying Game 4 win in Dallas on Monday night.",
+        "url": "https://www.espn.com/nba/story/_/id/40143162/thunder-rally-mavs-final-minutes-even-series",
+        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0514%2Fr1332453_1296x729_16%2D9.jpg",
+        "publishedAt": "2024-05-14T04:46:00Z",
+        "content": "DALLAS -- The stakes of Game 4 weighed on Oklahoma City superstar Shai Gilgeous-Alexander all day Monday as he waited for the 8:30 tipoff with the Thunder trailing the Dallas Mavericks in their Weste… [+6467 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "\"Just do it\": Michael Cohen says Trump told him, on Stormy Daniels payment - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2024/05/13/michael-cohen-new-york-criminal-trial-2024",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T04:26:07Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JENNIFER PELTZ",
+        "title": "At Westminster dog show, a display of dogs and devotion - The Associated Press",
+        "description": "The 148th Westminster Kennel Club dog show is underway. Monday marked the start of the traditional judging that leads to the best in show prize, to be awarded Tuesday night at the USTA Billie Jean King National Tennis Center in New York. Semifinals began Mond…",
+        "url": "https://apnews.com/article/westminster-kennel-club-dog-show-5f3a2f287021645f84fb437ef9419a54",
+        "urlToImage": "https://dims.apnews.com/dims4/default/f0399bb/2147483647/strip/true/crop/4607x2591+0+240/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2Fe2%2F34249b1ff4090e43cb7ac091d9e2%2Fc7d967f7b0e340e3a50a075b09449885",
+        "publishedAt": "2024-05-14T04:17:00Z",
+        "content": "NEW YORK (AP) Less than three years ago, Mary Ann and David Giordano were taking turns lying on the living room floor with their Afghan hound Frankie, hand-feeding the desperately ill dog anything sh… [+5327 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KSL.com"
+        },
+        "author": "https://www.facebook.com/kslcom/",
+        "title": "Utah senators blast pause in weapons to Israel as 'reprehensible,' 'dithering' - KSL.com",
+        "description": "Utah Sens. Mike Lee and Mitt Romney have criticized the White House over its decision to withhold some military aid to Israel.",
+        "url": "https://www.ksl.com/article/51011167/utah-senators-blast-pause-in-weapons-to-israel-as-reprehensible-dithering",
+        "urlToImage": "https://img.ksl.com/slc/2988/298883/29888314.jpg?filter=kslv2/responsive_story_lg",
+        "publishedAt": "2024-05-14T03:07:26Z",
+        "content": "SALT LAKE CITY Utah's Republican senators have condemned a decision by the Biden administration to pause the shipment of some weapons to Israel as its troops are on the outskirts of the heavily popul… [+2903 chars]"
+      },
+      {
+        "source": {
+          "id": "axios",
+          "name": "Axios"
+        },
+        "author": "Axios",
+        "title": "Canada wildfires hit northern U.S. air quality - Axios",
+        "description": null,
+        "url": "https://www.axios.com/2024/05/13/wildfire-canada-evacuations-air-quality-us-states",
+        "urlToImage": null,
+        "publishedAt": "2024-05-14T02:58:25Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Prideofdetroit.com"
+        },
+        "author": "Morgan Cannon",
+        "title": "Instant reactions to Detroit Lions quarterback Jared Goff getting PAID - Pride Of Detroit",
+        "description": "Meko and Morgan discuss the Detroit Lions extending quarterback Jared Goff on the Pride of Detroit YouTube Channel.",
+        "url": "https://www.prideofdetroit.com/2024/5/13/24155973/video-detroit-lions-quarterback-jared-goff-paid-contract-extension",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/g39dcZkquC2ZZl2E7oM97C40xHc=/0x26:930x513/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25440067/usa_today_23053610.jpg",
+        "publishedAt": "2024-05-14T01:33:23Z",
+        "content": "It had been talked about on podcasts and in bars since the end of the season back in late January, and finally, we get to put it to bed. The Detroit Lions have extended starting quarterback Jared Gof… [+1149 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "Travis Kelce REACTS to Taylor Swift Performing TTPD Songs Rumored About Him - Entertainment Tonight",
+        "description": "Travis Kelce supports his ladylove, Taylor Swift, in the City of Lights! The NFL star watched the singer's fourth and final night of her Eras tour stop in Pa...",
+        "url": "https://www.youtube.com/watch?v=qAIPoCgnLlo",
+        "urlToImage": "https://i.ytimg.com/vi/qAIPoCgnLlo/maxresdefault.jpg",
+        "publishedAt": "2024-05-14T01:15:05Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Nancy Cordes, Kathryn Watson",
+        "title": "Biden to announce new 100% tariffs on Chinese EVs - CBS News",
+        "description": "The tariff on electric vehicles from China is currently 25%.",
+        "url": "https://www.cbsnews.com/news/biden-to-announce-new-100-tariffs-on-chinese-evs/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2024/05/13/1ee7aacc-13a8-4365-b708-10bd1226c4d8/thumbnail/1200x630/06822cdb4b9d8082bc267544e62f51ce/gettyimages-1484159901.jpg?v=da1edae61593776e0985328155219700",
+        "publishedAt": "2024-05-14T01:04:47Z",
+        "content": "President Joe Biden is expected to announce new tariffs Tuesday on Chinese EVs, semiconductors, batteries, solar cells, steel and aluminum. The tariffs on EVs will rise to 100%, quadrupling the curre… [+2571 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "ALANNA DURKIN RICHER, JOHN RABY",
+        "title": "3 men charged in Whitey Bulger's 2018 prison killing have plea deals, prosecutors say - The Associated Press",
+        "description": "Three men charged in the 2018 prison killing of notorious Boston gangster James “Whitey” Bulger have reached plea deals with prosecutors. The plea deals for Fotios “Freddy” Geas, Paul J. DeCologero and Sean McKinnon were disclosed Monday in court filings near…",
+        "url": "https://apnews.com/article/whitey-bulger-prison-killing-plea-change-8f9ee1b9d16989bd69e144c80225b1a0",
+        "urlToImage": "https://dims.apnews.com/dims4/default/87dea75/2147483647/strip/true/crop/2860x1609+0+696/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F24%2Fed%2F3af3a5bc2c00ba6f3f1bf4c505f4%2Fb8445144655447b793bc45c89bc569af",
+        "publishedAt": "2024-05-14T00:16:00Z",
+        "content": "WASHINGTON (AP) Three men charged in the 2018 prison killing of notorious Boston gangster James Whitey Bulger have reached plea deals with prosecutors, according to court papers filed Monday. \r\nThe p… [+3887 chars]"
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "Sony names new PlayStation leaders following Jim Ryan's retirement - The Verge",
+        "description": "Sony has appointed co-CEOs to lead its PlayStation business. Hermen Hulst and Hideaki Nishino will takeover on June 1st, months after Jim Ryan retired.",
+        "url": "https://www.theverge.com/2024/5/13/24155982/sony-playstation-co-ceo-hermen-hulst-hideaki-nishino",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/tyK6y0BwTvw_c3Aeyl_rKzvqILM=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23986615/acastro_STK097_01.jpg",
+        "publishedAt": "2024-05-13T23:53:16Z",
+        "content": "Sony names new PlayStation leaders following Jim Ryans retirement\r\nSony names new PlayStation leaders following Jim Ryans retirement\r\n / Sony is going with co-CEOs to lead its PlayStation business.\r\n… [+2348 chars]"
+      }
+    ]
+  }
