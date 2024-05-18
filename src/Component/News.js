@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import NewsItem from './NewsItem'
 import Loading from './Loading'
 import PropTypes from 'prop-types'
+import InfiniteScroll from 'react-infinite-scroll-component'
 
 export class News extends Component {
 
@@ -24,6 +25,7 @@ export class News extends Component {
             articles:[],
             loading:false,
             page:1,
+            totalResults:0
       }
       document.title=`NewsMonkey-${props.category}`;
     }
@@ -33,11 +35,16 @@ export class News extends Component {
   }
     update= async()=>
     {
+      this.props.setProgress(0);
       this.setState({loading:true});
-      let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=9e5b0b014b844c66ac8e17aa8f3fda9c&page=${this.state.page+1}&pagesize=${this.props.pagesize}`;
+      let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=a7199b2b4a2044638a92a0c86bdd8aa3&page=${this.state.page}&pagesize=${this.props.pagesize}`;
+      this.props.setProgress(20);
       let data = await fetch(url); //returns promise
+      this.props.setProgress(50);
       let parsedata = await data.json();//convert to json format
+      this.props.setProgress(70);
       this.setState({articles:parsedata.articles,totalResults:parsedata.totalResults,loading:false});
+      this.props.setProgress(100);
     }
 
     async componentDidMount()
@@ -45,16 +52,17 @@ export class News extends Component {
         this.update();
     }
 
-    handlenext = async()=>
-    {  
+    fetchMore = async()=>{
+      this.props.setProgress(0);
       this.setState({page:this.state.page+1});
-      this.update();
-   }
-
-    handleprev= async()=>
-    {
-      this.setState({page:this.state.page-1});
-      this.update();
+      this.props.setProgress(25);
+      let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=a7199b2b4a2044638a92a0c86bdd8aa3&page=${this.state.page}&pagesize=${this.props.pagesize}`;
+      this.props.setProgress(50);
+      let data = await fetch(url); //returns promise
+      let parsedata = await data.json();//convert to json format
+      this.props.setProgress(70);
+      this.setState({articles:this.state.articles.concat(parsedata.articles)});
+      this.props.setProgress(100);
     }
 
   render() {
@@ -62,25 +70,28 @@ export class News extends Component {
       
       <div>
         <h1 className='text-center'> <b>NewsMonkey</b> - Top {this.capitilize(this.props.category)} Headlines</h1>
-        <div className="container">
         {this.state.loading && <Loading/>}
+
+        <InfiniteScroll
+        dataLength={this.state.articles.length}
+        next={this.fetchMore}
+        hasMore={this.state.articles.length < this.state.totalResults}
+        loader={<Loading/>}
+        endMessage={
+          <p style={{textAlign:'center'}}><b>Yahoo! You Have Read Everything</b> </p>
+        }>
+          <div className="container">
         <div className="row">
-        {!this.state.loading && this.state.articles.map((ele)=>{
-                return  <div className="col-md-4 my-3" key={ele.url}>
+        {!this.state.loading && this.state.articles.map((ele,index)=>{
+                return  <div className="col-md-4 my-3" key={index}>
                 <NewsItem title = {ele.title} description={ele.description} imgUrl={ele.urlToImage} url={ele.url} author={ele.author} time={ele.publishedAt} source={ele.source.id} />
                 </div>
             })}
-
+          </div>
            </div>
-           <div className="d-flex justify-content-between">
-           <button type="button" disabled = {this.state.page<=1 ? true:false} onClick={this.handleprev}className="btn btn-dark">Prev..</button>
-           <button type="button" disabled = {this.state.page+1 <= Math.ceil(this.state.totalResults/this.props.pagesize) ? false:true} onClick = {this.handlenext} className="btn btn-dark">Next..</button>
+           </InfiniteScroll>
         </div>
-        </div>
-        
-
-      </div>
-    )
+     )
   }
 }
 
